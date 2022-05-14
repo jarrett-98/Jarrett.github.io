@@ -1,13 +1,13 @@
 # Site settings
-title: Will Wang's Blog
-SEOTitle: 王志彪的博客
-header-img: img/post-bg-index.jpg
-email: wzbcode@163.com
-description: "Every failure is leading towards success."
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
-url: "https://flyingwzb.github.io/"          # your host, for absolute URL
+title: LJW's Blog            # 博客标题
+SEOTitle: LJW's Blog               # 显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-index.jpg    # 显示在首页的背景图片
+email: 754474446@qq.com            # 个人邮箱
+description: "Every failure is leading towards success."  # 网站介绍
+keyword: "LJW, Java"  #关键词
+url: "https://jarrett-98.github.io/"          # your host, for absolute URL；这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/jarrett-98/jarrett-98.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,13 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+weibo_username:     
+zhihu_username:     
+github_username:    jarrett-98
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   
+jianshu_id: 
 
 
 # Build settings
