@@ -1,10 +1,10 @@
 # Site settings
-title: LJW's Blog            # 博客标题
-SEOTitle: LJW's Blog               # 显示在浏览器上搜索的时候显示的标题
+title: Jarrett's Blog            # 博客标题
+SEOTitle: Jarrett's Blog               # 显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-index.jpg    # 显示在首页的背景图片
-email: 754474446@qq.com            # 个人邮箱
+# email: 754474446@qq.com            # 个人邮箱
 description: "Every failure is leading towards success."  # 网站介绍
-keyword: "LJW, Java"  #关键词
+keyword: "jarrett, Java"  #关键词
 url: "https://jarrett-98.github.io/"          # your host, for absolute URL；这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jarrett-98/jarrett-98.github.io.git" # you code repository
@@ -102,6 +102,6 @@ friends: [
 
 
 # 支付宝、微信打赏二维码
-alipay_qr_img: 
+alipay_qr_img: img/jarrett/Alipay.jpg
 
-wechat_qr_img: 
+wechat_qr_img: img/jarrett/wxpay.jpg
