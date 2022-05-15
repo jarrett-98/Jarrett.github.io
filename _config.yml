@@ -56,11 +56,12 @@ input: GFM                            # use Github Flavored Markdown !important
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: flyingwzb
+disqus_username: jarrett
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  # enable: true    #是否开启Gitalk评论
+  enable: false
   clientID: 44b5a485f395e1a3b69e                            #生成的clientID
   clientSecret: 40d03830790b9409b569ec05c58cb93b409c0efc    #生成的clientSecret
   repo: jarrett-98.github.io   #仓库名称
